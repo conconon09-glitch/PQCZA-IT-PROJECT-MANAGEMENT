@@ -1,0 +1,9 @@
+# Bỏ qua các file build của Backend
+**/target/
+**/.idea/
+**/*.iml
+
+# Bỏ qua các thư viện tải về của Frontend
+**/node_modules/
+**/.env
+**/dist/
